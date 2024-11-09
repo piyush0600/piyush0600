@@ -37,16 +37,6 @@ I believe that data, when used effectively, holds the power to transform busines
 
 ---
 
-## 📚 Projects and Contributions
-
-I love to engage in meaningful projects that test my abilities and push the boundaries of my knowledge. Some of the projects I’ve worked on include:
-
-- **[Project Title 1]**: A brief description of a project showcasing Python and Pandas use for data manipulation.
-- **[Project Title 2]**: Visualization project using Tableau to present business performance metrics.
-- **[Project Title 3]**: A MySQL project where I constructed and optimized database queries for reporting.
-
----
-
 ## 🌱 Always Learning
 
 Continuous learning is at the heart of my journey. I’m currently diving deeper into:
@@ -61,7 +51,6 @@ Continuous learning is at the heart of my journey. I’m currently diving deeper
 
 I’m always open to collaborating on interesting projects and exchanging ideas with fellow data enthusiasts! Feel free to connect with me:
 
-- **[Your LinkedIn Profile]**
 - **[piyush.40506070@gmail.com]** 
 
 Let’s collaborate and create data-driven solutions that matter!
